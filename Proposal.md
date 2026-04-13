@@ -21,7 +21,7 @@ Chapter One es una página web orientada a lectores, donde los mismos podrán bu
 | Requerimiento    |                        Detalle/Listado de casos incluidos |
 | :--------------- | --------------------------------------------------------: |
 | ABMC simple      |                       Libro, Usuario, Autor, Género, Club |
-| ABMC dependiente |                         Biblioteca, Saga, Post, Historial |
+| ABMC dependiente |                                Lectura, Saga, PosteoClub. |
 | CU NO-ABMC       | Añadir reseña, Lista de lectura, Recomendación de libros. |
 | Listados simples |                    Listados de: autores, libros, géneros. |
 
