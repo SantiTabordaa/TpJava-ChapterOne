@@ -27,9 +27,9 @@ Chapter One es una página web orientada a lectores, donde los mismos podrán bu
 
 ### Aprobación directa
 
-| Requerimiento                   |                                                       Detalle/Listado de casos incluidos |
-| :------------------------------ | ---------------------------------------------------------------------------------------: |
-| Casos de Uso Complejos          | Listado libros filtrado por género. Listado clubes filtrados por temática. (CAMBIAR!!!!) |
-| Listados Complejos              |               Listado libros filtrado por género. Listado clubes filtrados por temática. |
-| Niveles de acceso               |                                            Invitado (sin cuenta), Lector, Administrador. |
-| Requerimiento extra obligatorio |                                   Notificar nuevo post de un club del usuario por email. |
+| Requerimiento                   |                                         Detalle/Listado de casos incluidos |
+| :------------------------------ | -------------------------------------------------------------------------: |
+| Casos de Uso Complejos          |    Usuario solicita unirse a un club de lectura. Usuario denuncia un post. |
+| Listados Complejos              | Listado libros filtrado por género. Listado clubes filtrados por temática. |
+| Niveles de acceso               |                              Invitado (sin cuenta), Lector, Administrador. |
+| Requerimiento extra obligatorio |                     Notificar nuevo post de un club del usuario por email. |
