@@ -12,7 +12,7 @@ Chapter One es una página web orientada a lectores, donde los mismos podrán bu
 
 ## Modelo
 
-![Imagen del dominio](./DER%20Chapter%20One.drawio.png)
+![Imagen del dominio](./DER.png)
 
 ## Requerimientos
 
